@@ -1,0 +1,19 @@
+﻿  Admin.cpp
+  Customer.cpp
+  Event.cpp
+Event.cpp(417): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+Event.cpp(784): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+Event.cpp(845): warning C4018: '<': signed/unsigned mismatch
+  hall.cpp
+  main.cpp
+  Ticket.cpp
+  User.cpp
+  Generating code
+  735 of 747 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    20 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FPCC.vcxproj -> C:\Users\Admin\Desktop\FPCC - CB\Release\FPCC.exe
+  FPCC.vcxproj -> C:\Users\Admin\Desktop\FPCC - CB\Release\FPCC.pdb (Full PDB)
